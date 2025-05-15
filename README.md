@@ -35,6 +35,6 @@
   
   ---
   
-  > 🧩 *"Code every day. Learn every day. Improve every day."*
+  🧩 *"Code every day. Learn every day. Improve every day."*
 
 </div>
