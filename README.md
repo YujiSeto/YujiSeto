@@ -21,13 +21,9 @@
   ## 📊 GitHub Stats
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YujiSeto&show_icons=true&theme=github_dark" height="140" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YujiSeto&theme=github-dark" height="140" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YujiSeto&layout=compact&theme=github_dark" height="140" />
-  </p>
-  
-  <p align="center">
-
+    <img src="https://github-readme-stats.vercel.app/api?username=YujiSeto&show_icons=true&theme=github_dark" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YujiSeto&layout=compact&theme=github_dark" height="170" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YujiSeto&theme=github-dark" height="170" />
   </p>
   
   ---
