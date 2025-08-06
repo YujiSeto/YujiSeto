@@ -3,8 +3,8 @@
   # 👋 Hi, I'm Rodrigo Yuji Seto Soma
   
   🎓 Bachelor's in Information Systems  
-  🌏 Living in Tokyo, Japan | Fluent in 🇧🇷 Portuguese & 🇺🇸 English  
-  📘 Learning Japanese
+  🌏 Living in Tokyo, Japan  
+  📘 Learning Japanese  
   🎯 Improving daily  
   
   ---
@@ -20,11 +20,11 @@
   
   ## 📊 GitHub Stats
   
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YujiSeto&show_icons=true&theme=github_dark" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YujiSeto&layout=compact&theme=github_dark" height="170" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YujiSeto&theme=github-dark" height="170" />
-  </p>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=YujiSeto&show_icons=true&theme=github_dark" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YujiSeto&layout=compact&theme=github_dark" height="160" />
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YujiSeto"/> -->
+  </div>
   
   ---
   
