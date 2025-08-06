@@ -4,8 +4,8 @@
   
   🎓 Bachelor's in Information Systems  
   🌏 Living in Tokyo, Japan | Fluent in 🇧🇷 Portuguese & 🇺🇸 English  
-  📘 Learning Japanese & improving daily  
-  🎯 Looking for junior dev opportunities or internships
+  📘 Learning Japanese
+  🎯 Improving daily  
   
   ---
   
