@@ -21,8 +21,8 @@
   ## 📊 GitHub Stats
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YujiSeto&show_icons=true&theme=github_dark&hide_border=true&&cache_seconds=0" height="160" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YujiSeto&layout=compact&theme=github_dark&hide_border=true&&cache_seconds=0" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YujiSeto&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&cache_seconds=0" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YujiSeto&layout=compact&theme=github_dark&hide_border=true&cache_seconds=0" height="160" />
   </div>
 <!--   <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YujiSeto&hide_border=true&theme=github_dark&cache_seconds=0"/>
