@@ -3,7 +3,6 @@
   # 👋 Hi, I'm Rodrigo Yuji Seto Soma
   
   🎓 Bachelor's in Information Systems  
-  🌏 Living in Tokyo, Japan  
   📘 Learning Japanese  
   🎯 Improving daily  
   
